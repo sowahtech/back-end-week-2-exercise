@@ -1,0 +1,21 @@
+{
+  "name": "bankserver",
+  "version": "1.0.0",
+  "description": "This server helps you manage your bank accounts",
+  "main": "index.js",
+  "author": "justice sowah",
+  "license": "MIT",
+  "scripts":{
+    "start":"nodemon"
+  },
+  "keywords": [
+    "Bank",
+    "Account",
+    "Server"
+  ],
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
